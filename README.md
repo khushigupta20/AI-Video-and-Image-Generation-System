@@ -69,3 +69,6 @@ Add your OpenAI API key in `main.py` to enable image generation functionality.
 3. Build a fully functional web interface for content display and user interaction.  
 4. Add notification and logging features for improved user experience.  
 5. Optimize the system for scalability and efficiency.
+
+# Vedio Explanation
+Link: https://drive.google.com/file/d/1uHlq_jwq_MvrfHMQgwXSqrJa3QKQtWBc/view?usp=sharing
